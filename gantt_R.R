@@ -6,7 +6,6 @@
 #install.packages("dplyr")
 #install.packages("plyr")
 #install.packages("ggplot2")
-#install.packages("RColorBrewer")
 
 
 #change your start date here (this is valid currently only for full time accelerated entry students)
